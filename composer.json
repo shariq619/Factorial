@@ -9,5 +9,10 @@
     ],
     "minimum-stability": "stable",
     "require": {
-    }   
+    },
+    "autoload": {
+        "psr-4": {
+            "shariq619\\factorial\\": "shariq619/factorial/"
+        }
+    }
 }
