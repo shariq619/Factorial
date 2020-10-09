@@ -1,5 +1,5 @@
 {
-    "name": "shariq619/Factorial",
+    "name": "shariq619/factorial",
     "description": "Just a demo for composer",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "shariq619\\Factorial\\": "shariq619/Factorial/"
+            "shariq619\\factorial\\": "shariq619/factorial/"
         }
     }
 }

@@ -5,7 +5,7 @@ namespace shariq619;
 /*
 A simple factorial function
 */
-class Factorial {
+class factorial {
 	
 	public function __construct(){
 		echo 'Simple Factorial Function'.'<br/>';
