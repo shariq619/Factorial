@@ -1,6 +1,6 @@
 <?php
 
-namespace shariq619;
+namespace shariq619\factorial;
 
 /*
 A simple factorial function
